@@ -1,63 +1,71 @@
-    1  git clone https://github.com/codewithbala/Jenkins-CICD-Bala.git
-    2  clear
-    3  git clone https://github.com/codewithbala/Jenkins-CICD-Bala.git
-    4  https://github.com/codewithbala/Jenkins-CICD_Bala.git
-    5  git clone https://github.com/codewithbala/Jenkins-CICD_Bala.git
-    6  ll
-    7  cd Jenkins-CICD_Bala/
-    8  chmod 777 jenkins-installation-ubuntu.sh
-    9  ./jenkins-installation-ubuntu.sh
-   10  git clone https://github.com/codewithbala/java-code1.git
-   11  ll
-   12  cd java-code1/
-   13  mvn install
-   14  apt install maven
-   15  gicd ..
-   16  cd ..
-   17  git clone https://github.com/codewithbala/java-code1.git
-   18  ll
-   19  cd java-code1
-   20  mvn install
-   21  cd target
-   22  ll
-   23  cd ..
-   24  wget https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.87/bin/apache-tomcat-8.5.87.tar.gz
-   25  cd java-code1
-   26  wget https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.87/bin/apache-tomcat-8.5.87.tar.gz
-   27  cd ..
-   28  wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.87/bin/apache-tomcat-9.0.87.tar.gz
-   29  tar -xvf apache-tomcat-9.0.87.tar.gz
-   30  ll
-   31  cd apache-tomcat-9.0.87
-   32  ll
-   33  cd webapps
-   34  pwd
-   35  cd ..
-   36  cd java-code1
-   37  cd target
-   38  cp ^c
-   39  cp studentapp-2.5-SNAPSHOT.war /root/apache-tomcat-9.0.87/webapps
-   40  cd ..
-   41  cd apache-tomcat-9.0.87
-   42  cd webapps
-   43  ll
-   44  cd ..
-   45  cd bin
-   46  ll
-   47  ./startup.sh
-   48  systemctl stop jenkins
-   49  systemctl status jenkins
-   50  systemctl start jenkins
-   51  systemctl status jenkins
-   52  ssh-keygen
-   53  cd ~/.ssh/
-   54  ll
-   55  cat id_rsa.pub
-   56  cd ..
-   57  git clone git@github.com:Yesahk/jenkins-git2.git
-   58  cd jenkins-git2
-   59  ll
-   60  git status
-   61  touch history.txt
-   62  ll
-   63  history > history.txt
+g
+c
+g
+h
+g
+l
+c
+c
+.
+g
+l
+c
+m
+a
+g
+c
+g
+l
+c
+m
+c
+l
+c
+w
+c
+w
+c
+w
+t
+l
+c
+l
+c
+p
+c
+c
+c
+c
+c
+c
+c
+c
+l
+c
+c
+l
+.
+s
+s
+s
+s
+s
+c
+l
+c
+c
+g
+c
+l
+g
+t
+l
+h
+c
+g
+g
+g
+g
+g
+g
+h
